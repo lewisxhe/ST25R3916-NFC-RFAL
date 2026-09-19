@@ -1,0 +1,10 @@
+This library contains code distributed under the STMicroelectronics
+SLA0052 Software License Agreement.
+
+The complete license text is included in the following files:
+
+  - LICENSE-NFC-RFAL-fork
+  - LICENSE-ST25R3916-fork
+
+Those files contain the applicable terms for the NFC-RFAL and ST25R3916
+components respectively. They are currently identical in this distribution.
