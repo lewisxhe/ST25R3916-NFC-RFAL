@@ -1,6 +1,6 @@
 {
   "name": "ST25R3916-NFC-RFAL",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Self-contained ST25R3916 driver and RFAL/NDEF library for Arduino ESP32",
   "frameworks": "arduino",
   "platforms": "espressif32"
